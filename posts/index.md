@@ -1,4 +1,4 @@
-## What is MindStone?
+## Archie's obsidian project 
 MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
 
 Here how it look like once published:
