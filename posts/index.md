@@ -1,9 +1,5 @@
-## Archie's obsidian project 
+## Archie's Obsidian project 
 MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
-
-Here how it look like once published:
-
-![](/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
 
 This website include a published version of default Obsidian Help vault, [[Start here]]
 
